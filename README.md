@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Norma
+- 👀 I’m interested in web development and finances...
+- 🌱 I’m currently learning English and web development at Platzi and accounting public at the University ...
+- 📫 How to reach me? https://www.linkedin.com/in/yamileth-d%C3%ADaz-107246205/ ...
+
+<!---
+yami-normix/yami-normix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
