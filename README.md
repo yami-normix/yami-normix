@@ -1,9 +1,9 @@
 <h1 align="center" text-align = "center">👋 Hello! I am Norma Escobar💛...<h1>
- <div align="center">
- <img src="https://i.imgur.com/Xlvm7IJ.png" alt="My profile" width="410px" height="260px">
+ <div width="300px" height="260px">
+  <img src="https://i.imgur.com/Xlvm7IJ.png">
  </div>
 
-<p align="center">👀 I’m interested in web development💻 , finances💲 and English📙...<p>
+<!---<p align="center">👀 I’m interested in web development💻 , finances💲 and English📙...<p>--->
 <p align="center">📫 How to reach me? ...
 <br><a href="https://twitter.com/Yami_Diaz_896"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Yamileth Díaz profile" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/yamileth-d%C3%ADaz-107246205/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Yamileth Díaz Linkedin account" width="30"/></a>
