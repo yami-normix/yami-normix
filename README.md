@@ -1,7 +1,6 @@
 <h1 align="center" text-align = "center">👋 Hello! I am Norma Escobar💛...<h1>
- <div width="300px" height="260px">
-  <img src="https://i.imgur.com/Xlvm7IJ.png">
- </div>
+  <img src="https://i.imgur.com/Xlvm7IJ.png" max-width="300px" max-height="200px">
+
 
 <!---<p align="center">👀 I’m interested in web development💻 , finances💲 and English📙...<p>--->
 <p align="center">📫 How to reach me? ...
