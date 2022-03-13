@@ -12,7 +12,7 @@
  - English B1<br>
  - Finances<br>
 
-<h2>Github Stats</h2>
+<h2>Github Status</h2>
  
 ![Yami-normix's github stats](https://github-readme-stats.vercel.app/api?username=yami-normix&show_icons=true&theme=tokyonight)
 
