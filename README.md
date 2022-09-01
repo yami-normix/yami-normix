@@ -7,10 +7,12 @@
  - Git y Github<br>
  - Html<br>
  - Css<br>
- - Basic Javascript<br>
+ - Javascript<br>
+ - API REST
  - Basic Python<br>
- - English B1<br>
+ - English C1<br>
  - Finances<br>
+ - Excel
 
 <h2>Github Status</h2>
  
