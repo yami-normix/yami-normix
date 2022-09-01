@@ -8,7 +8,7 @@
  - Html<br>
  - Css<br>
  - Javascript<br>
- - API REST
+ - API REST<br>
  - Basic Python<br>
  - English C1<br>
  - Finances<br>
